@@ -1,0 +1,45 @@
+{
+    "name": "obsidian-codemirror-options",
+    "version": "0.9.5",
+    "description": "Customize the functionality and appearance of Obsidian's edit mode",
+    "main": "main.js",
+    "scripts": {
+        "dev": "rollup --config rollup.config.js -w",
+        "build": "rollup --config rollup.config.js --environment BUILD:production",
+        "lint": "eslint . --ext .ts"
+    },
+    "keywords": [],
+    "author": "NothingIslost <[@nothingislost](https://github.com/nothingislost)>",
+    "license": "MIT",
+    "devDependencies": {
+        "@aidenlx/obsidian-icon-shortcodes": "^0.5.1",
+        "@giotramu/prettier-config": "^1.1.2",
+        "@rollup/plugin-commonjs": "^15.1.0",
+        "@rollup/plugin-json": "^4.1.0",
+        "@rollup/plugin-node-resolve": "^9.0.0",
+        "@rollup/plugin-typescript": "^6.1.0",
+        "@types/node": "^14.14.2",
+        "@typescript-eslint/eslint-plugin": "^4.29.3",
+        "@typescript-eslint/parser": "^4.29.3",
+        "assert-never": "^1.2.1",
+        "codemirror": "^5.62.2",
+        "eslint": "^7.32.0",
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-import": "^2.24.2",
+        "eslint-plugin-prettier": "^3.4.1",
+        "obsidian": "https://github.com/obsidianmd/obsidian-api/tarball/master",
+        "postcss": "^8.3.6",
+        "prettier": "^2.3.2",
+        "rollup": "^2.33.0",
+        "rollup-plugin-copy": "^3.3.0",
+        "rollup-plugin-postcss": "^4.0.1",
+        "tslib": "^2.0.3",
+        "typescript": "^4.0.5"
+    },
+    "dependencies": {
+        "js-yaml": "^4.1.0",
+        "monkey-around": "^2.2.0",
+        "semver": "^7.3.5"
+    }
+}

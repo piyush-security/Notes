@@ -1,0 +1,166 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "/": [
+      "_Pre Enumeration",
+      "_Common Ports",
+      "_Web Attacks",
+      "_Password Attacks",
+      "_Generating Shell-Codes",
+      "_Break-Out Commands",
+      "_File Transfer",
+      "_Privilege Escalation",
+      "_Finding Exploits",
+      "_Post Exploitation",
+      "_Active Directory",
+      "_Buffer Overflow ( Stack )",
+      "z===================="
+    ],
+    "_Pre Enumeration/passive Enum": [
+      "_Pre Enumeration/passive Enum/Basic Page.md",
+      "_Pre Enumeration/passive Enum/Email Harvesting.md",
+      "_Pre Enumeration/passive Enum/DNS Enum.md"
+    ],
+    "_Pre Enumeration": [
+      "_Pre Enumeration/Active Enum",
+      "_Pre Enumeration/OneTwoPunch.md",
+      "_Pre Enumeration/Network Discovery",
+      "_Pre Enumeration/passive Enum",
+      "_Pre Enumeration/Port Knocking.md"
+    ],
+    "_File Transfer/Starting Servers": [
+      "_File Transfer/Starting Servers/HTTP_Server.md",
+      "_File Transfer/Starting Servers/FTP_Server.md",
+      "_File Transfer/Starting Servers/Samba_Server.md"
+    ],
+    "_Web Attacks/Default Directories": [
+      "_Web Attacks/Default Directories/Basic.md",
+      "_Web Attacks/Default Directories/Apache"
+    ],
+    "_Web Attacks/Common Attacks/SQLi": [
+      "_Web Attacks/Common Attacks/SQLi/Basic.md",
+      "_Web Attacks/Common Attacks/SQLi/Automated Exploitation"
+    ],
+    "_Web Attacks/Common Attacks/SQLi/Automated Exploitation": [
+      "_Web Attacks/Common Attacks/SQLi/Automated Exploitation/Sqlmap.md",
+      "_Web Attacks/Common Attacks/SQLi/Automated Exploitation/No-Sqlmap.md"
+    ],
+    "_Web Attacks/CMS/Drupal": [
+      "_Web Attacks/CMS/Drupal/Scanning",
+      "_Web Attacks/CMS/Drupal/Admin 2 RCE.md"
+    ],
+    "_Generating Shell-Codes": [
+      "_Generating Shell-Codes/Basic Things.md",
+      "_Generating Shell-Codes/msfvenom.md",
+      "_Generating Shell-Codes/Useful Links.md",
+      "_Generating Shell-Codes/My Fav shells",
+      "_Generating Shell-Codes/AV Bypass"
+    ],
+    "_Active Directory/Basics": [
+      "_Active Directory/Basics/What is AD.md",
+      "_Active Directory/Basics/Why Active Directory.md",
+      "_Active Directory/Basics/Physical Components of AD.md"
+    ],
+    "_Active Directory": [
+      "_Active Directory/Basics",
+      "_Active Directory/Common enumeration",
+      "_Active Directory/Initial Attack Vectors",
+      "_Active Directory/Gaining Shells",
+      "_Active Directory/Post Compromise Enum",
+      "_Active Directory/Post Compromise Attacks"
+    ],
+    "_Active Directory/Initial Attack Vectors": [
+      "_Active Directory/Initial Attack Vectors/LLMNR Poisoning.md",
+      "_Active Directory/Initial Attack Vectors/SMB Relay.md",
+      "_Active Directory/Initial Attack Vectors/IPv6 MITM Attack.md"
+    ],
+    "_Active Directory/Post Compromise Enum": [
+      "_Active Directory/Post Compromise Enum/Basic.md",
+      "_Active Directory/Post Compromise Enum/PowerView.md",
+      "_Active Directory/Post Compromise Enum/BloodHound.md"
+    ],
+    "_Privilege Escalation/Windows": [
+      "_Privilege Escalation/Windows/_Resources.md",
+      "_Privilege Escalation/Windows/Start-UP Apps",
+      "_Privilege Escalation/Windows/Kernal Exploit",
+      "_Privilege Escalation/Windows/Service Exploit",
+      "_Privilege Escalation/Windows/Scheduled tasks",
+      "_Privilege Escalation/Windows/Registry",
+      "_Privilege Escalation/Windows/Potato Time",
+      "_Privilege Escalation/Windows/Passwords",
+      "_Privilege Escalation/Windows/Installed Apps",
+      "_Privilege Escalation/Windows/Installed GUI Apps",
+      "_Privilege Escalation/Windows/Running CMD as Admin.md"
+    ],
+    "_Privilege Escalation/Windows/Service Exploit": [
+      "_Privilege Escalation/Windows/Service Exploit/Basic.md",
+      "_Privilege Escalation/Windows/Service Exploit/Insecure Service Properties.md",
+      "_Privilege Escalation/Windows/Service Exploit/Weak Registry Permissions.md",
+      "_Privilege Escalation/Windows/Service Exploit/Unquoted Service Path.md"
+    ],
+    "_Privilege Escalation/Windows/Passwords": [
+      "_Privilege Escalation/Windows/Passwords/Runas Saved Creds.md",
+      "_Privilege Escalation/Windows/Passwords/Registry Creds.md",
+      "_Privilege Escalation/Windows/Passwords/Sam.md",
+      "_Privilege Escalation/Windows/Passwords/Pass The Hash.md",
+      "_Privilege Escalation/Windows/Passwords/Configuration Files.md"
+    ],
+    "_Privilege Escalation": [
+      "_Privilege Escalation/Linux",
+      "_Privilege Escalation/Windows",
+      "_Privilege Escalation/_Cheat-Sheet",
+      "_Privilege Escalation/Port Forwarding"
+    ],
+    "_Privilege Escalation/Linux": [
+      "_Privilege Escalation/Linux/_Resources.md",
+      "_Privilege Escalation/Linux/Basic.md",
+      "_Privilege Escalation/Linux/Kernal Exploit",
+      "_Privilege Escalation/Linux/Common Places and Files",
+      "_Privilege Escalation/Linux/Escalation Path Sudo",
+      "_Privilege Escalation/Linux/Capabilities",
+      "_Privilege Escalation/Linux/Container Escape",
+      "_Privilege Escalation/Linux/Cron-Jobs",
+      "_Privilege Escalation/Linux/No Root_Squash",
+      "_Privilege Escalation/Linux/Service or Process ( Version )",
+      "_Privilege Escalation/Linux/Service Misconfiguration"
+    ],
+    "_Privilege Escalation/Linux/Common Places and Files": [
+      "_Privilege Escalation/Linux/Common Places and Files/Password Hunting.md",
+      "_Privilege Escalation/Linux/Common Places and Files/Files Permissions"
+    ],
+    "_Privilege Escalation/Linux/Common Places and Files/Files Permissions": [
+      "_Privilege Escalation/Linux/Common Places and Files/Files Permissions/Basic.md",
+      "_Privilege Escalation/Linux/Common Places and Files/Files Permissions/Redable Shadow-File.md",
+      "_Privilege Escalation/Linux/Common Places and Files/Files Permissions/Writable Shadow-File.md",
+      "_Privilege Escalation/Linux/Common Places and Files/Files Permissions/Writable Passwd-File.md"
+    ],
+    "_Active Directory/Post Compromise Attacks": [
+      "_Active Directory/Post Compromise Attacks/Dumping Hashes With Impacket.md",
+      "_Active Directory/Post Compromise Attacks/Pass The Password.md",
+      "_Active Directory/Post Compromise Attacks/Pass The Hash.md",
+      "_Active Directory/Post Compromise Attacks/Token Impersonation"
+    ],
+    "_Active Directory/Post Compromise Attacks/Kerberosting": [
+      "_Active Directory/Post Compromise Attacks/Kerberosting/Basic.md",
+      "_Active Directory/Post Compromise Attacks/Kerberosting/With Impacket.md",
+      "_Active Directory/Post Compromise Attacks/Kerberosting/With Rubeus.md",
+      "_Active Directory/Post Compromise Attacks/Kerberosting/Mitigations.md"
+    ],
+    "_Active Directory/Post Compromise Attacks/Token Impersonation": [
+      "_Active Directory/Post Compromise Attacks/Token Impersonation/Basic.md",
+      "_Active Directory/Post Compromise Attacks/Token Impersonation/Manual.md",
+      "_Active Directory/Post Compromise Attacks/Token Impersonation/With Metasploit.md",
+      "_Active Directory/Post Compromise Attacks/Token Impersonation/Mitigation.md"
+    ],
+    "_Buffer Overflow ( Stack )/Step-By-Step-Guide": [
+      "_Buffer Overflow ( Stack )/Step-By-Step-Guide/Basic Overview.md",
+      "_Buffer Overflow ( Stack )/Step-By-Step-Guide/Spiking.md",
+      "_Buffer Overflow ( Stack )/Step-By-Step-Guide/Fuzzing.md"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": true,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}

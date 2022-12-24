@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "9d284b315dc1aa5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f99c4eeaa9d3f777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19aeaddbb78c0f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Generating Shell-Codes/Basic Things.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e342f05cd2007d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "470a3f830cea1168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b546734e698b70f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
+            "id": "1c87fd1897374d18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "394ca7c03cb10f16",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5
+  },
+  "right": {
+    "id": "f330026e9ad36f40",
+    "type": "split",
+    "children": [
+      {
+        "id": "4010aa7815fd8759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a434c161835c279f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Generating Shell-Codes/Basic Things.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d9c658750d84087",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Generating Shell-Codes/Basic Things.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56943f2805a67204",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3fc74e2acfdd3c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Generating Shell-Codes/Basic Things.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "19aeaddbb78c0f80",
+  "lastOpenFiles": [
+    "_Generating Shell-Codes/My Fav shells/mix of all.md",
+    "_Generating Shell-Codes/AV Bypass/PowerShell.md",
+    "_Generating Shell-Codes/AV Bypass/Zirikatu Framework.md",
+    "_Generating Shell-Codes/AV Bypass/Shelter.md",
+    "_Password Attacks/Commands/Hydra.md",
+    "z====================/MITM/WireShark.md",
+    "Machines/PalsForLife.md",
+    "z====================/Template.md",
+    "_Web Attacks/Directory & Files Fuzzing/Feroxbuster.md",
+    "_Password Attacks/Commands/Fcrackzip.md"
+  ]
+}
